@@ -3,14 +3,14 @@
 # Autor: valentina maguiña
 # ===========================================
 
-saldo = 5000
-pin_correcto = "5678"
+saldo =2000
+pin_correcto = "9012"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO DE BCP")
+print("     cajero banco interbank")
 print("===================================")
 
-pin = input("Ingrese su clave PIN: ")
+pin = input("Ingresar PIN: ")
 
 if pin == pin_correcto:
 
