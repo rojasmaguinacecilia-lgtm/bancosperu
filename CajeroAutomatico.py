@@ -1,16 +1,16 @@
 # ===========================================
 # PROGRAMA: CAJERO AUTOMÁTICO
-# Autor: valentina maguiña
+# Autor: valentina maguiña 3 de sec
 # ===========================================
 
-saldo =2000
-pin_correcto = "9012"
+saldo =6900
+pin_correcto = "3456"
 
 print("===================================")
-print("     cajero banco interbank")
+print("     cajero del banco bbva")
 print("===================================")
 
-pin = input("Ingresar PIN: ")
+pin = input("por favor Ingrese su PIN: ")
 
 if pin == pin_correcto:
 
